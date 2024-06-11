@@ -32,6 +32,7 @@
 #include "ortools/util/saturated_arithmetic.h"
 #include "ortools/util/sorted_interval_list.h"
 
+// TODO study
 namespace operations_research {
 
 bool DisjunctivePropagator::Propagate(Tasks* tasks) {
